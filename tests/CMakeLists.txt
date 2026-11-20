@@ -1,0 +1,6 @@
+add_subdirectory(job_simd)
+add_subdirectory(job_yaml)
+add_subdirectory(job_json)
+add_subdirectory(job_text)
+add_subdirectory(job_obj)
+add_subdirectory(job_core)
